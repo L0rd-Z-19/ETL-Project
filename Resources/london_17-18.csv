@@ -1,4 +1,4 @@
-,Unnamed: 0,year,Trip_Length_Days,Travel_Type,Reason_for_travel
+,Unnamed: 0,year,dur_stay,mode,purpose
 0,0,2017,1-3  nights,Air,Holiday
 1,1,2017,1-3  nights,Air,Business
 2,2,2017,1-3  nights,Air,Miscellaneous
